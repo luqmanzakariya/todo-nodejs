@@ -6,9 +6,9 @@ Todo app build with Express, Typescript and Postgresql
 Client still on progress
 
 ## Server
-### To get started with server, Go to server folder, then run
+### To get started with server, `change directory to server folder`, then run
 - ### `npm install` or `yarn` (if you are using yarn)
-- ### setup your database and create `.env` file (reference: .env.example) or if you want to use docker compose run `docker compose up` then adjust the .env file
+- ### setup your database and create `.env` file (reference: .env.example) or if you want to use docker compose run `docker compose up` then adjust the .env file (reference: .env.example)
 - ### run the server using command `npm run start` or `yarn start` (if you are using yarn)
 
 ### Server tech stacks
